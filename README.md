@@ -1,6 +1,6 @@
-<!-- 🧠 Animated Intro Section -->
+<!-- ✨ Animated Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Tejas+Lahade;Full+Stack+Developer;Java+%26+MERN+Specialist;Backend+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+👋%2C+I'm+Tejas+Lahade;Full+Stack+Developer;Java+%26+MERN+Specialist;Backend+Engineer;Lifelong+Learner" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=tejas2912&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
 
-  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="400" alt="Developer GIF" />
+  <img src="https://github.com/tejas2912/tejas2912/assets/tejas2912/dev-working.gif" width="400" alt="Developer at work" />
 </div>
 
 ---
@@ -96,9 +96,20 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tejas2912&show_icons=true&theme=react)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=tejas2912&theme=react)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2912&layout=compact&theme=react)
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=tejas2912&show_icons=true&theme=react)  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=tejas2912&theme=react)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2912&layout=compact&theme=react)
+  
+</div>
+
+---
+
+# 🧠 Fun Animation:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tejas2912&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
 
 ---
 
@@ -117,5 +128,5 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
   
   ### ✨ _“Code. Learn. Build. Grow.”_ 🚀
   
-  ![Footer Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
