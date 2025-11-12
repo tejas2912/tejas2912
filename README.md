@@ -1,19 +1,3 @@
-<!-- ✨ Animated Header Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+👋%2C+I'm+Tejas+Lahade;Full+Stack+Developer;Java+%26+MERN+Specialist;Backend+Engineer;Lifelong+Learner" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
-    <img src="https://img.shields.io/badge/Languages-JavaScript%2C%20Java%2C%20SQL%2C%20HTML%2C%20CSS-blue" />
-    <img src="https://img.shields.io/badge/Tools-Node.js%2C%20Express%2C%20Spring%20Boot%2C%20MongoDB%2C%20MySQL-orange" />
-    <img src="https://komarev.com/ghpvc/?username=tejas2912&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-
-  <img src="https://github.com/tejas2912/tejas2912/assets/tejas2912/dev-working.gif" width="400" alt="Developer at work" />
-</div>
-
----
-
 # 💫 About Me:
 Hi there! 👋 I'm **Tejas Lahade**, a passionate **Full Stack Developer** skilled in both **Java Full Stack** and **MERN Stack** technologies.  
 Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Institute of Technology, Pune** 🎓, I’m driven by curiosity to build scalable and impactful solutions.
@@ -96,19 +80,22 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
 ---
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tejas2912&show_icons=true&theme=react)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tejas2912&theme=react)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2912&layout=compact&theme=react)
+
+---
+
+# 🐍 Contribution Graph (Snake Animation)
 <div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=tejas2912&show_icons=true&theme=react)  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=tejas2912&theme=react)  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2912&layout=compact&theme=react)
-  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
 
-# 🧠 Fun Animation:
+# 🧩 Contribution Activity
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejas2912&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=tejas2912&limit=5&theme=react&combine_all_yearly_contributions=true" />
 </div>
 
 ---
@@ -124,9 +111,4 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
 
 ---
 
-<div align="center">
-  
-  ### ✨ _“Code. Learn. Build. Grow.”_ 🚀
-  
-  ![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-</div>
+⭐ **“Code. Learn. Build. Grow.”** 🚀
