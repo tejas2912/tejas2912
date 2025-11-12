@@ -1,36 +1,41 @@
 # 💫 About Me:
-Hi there! 👋 I'm **Tejas Lahade**, a passionate backend developer and CSE student at **Symbiosis Institute of Technology, Pune**.  
-I specialize in **Node.js, Express.js, and MongoDB**, and I love building scalable backend systems with secure authentication and efficient data handling.  
+Hi there! 👋 I'm **Tejas Lahade**, a passionate **Full Stack Developer** skilled in both **Java Full Stack** and **MERN Stack** technologies.  
+Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Institute of Technology, Pune** 🎓, I’m driven by curiosity to build scalable and impactful solutions.
 
-Currently, I'm focusing on mastering the **MERN stack** and enhancing my problem-solving skills in **DSA** and **System Design**.  
+💼 **Experience Highlights:**
+- Developed and deployed multiple **full-stack projects** integrating real-world use cases.
+- Strong experience in **backend development** using **Node.js, Express.js, and Spring Boot**.
+- Proficient in building and consuming **RESTful APIs**, managing databases, and deploying apps.
 
-🚀 I’m working on:  
-- **SymbiEat** 🍔 – a full-stack canteen management platform with online ordering, JWT authentication, and admin dashboard.  
-- **Java Recharge App** 💳 – a Spring Boot-based recharge system with real-time balance tracking and transaction history.  
+🚀 **Currently Working On:**
+- **SymbiEat 🍔** – A canteen management system with JWT authentication, order tracking, and admin analytics.
+- **Java Recharge App 💳** – A Spring Boot application enabling real-time recharges and transaction management.
 
-📚 I’m currently learning:  
-- Spring Boot  
-- Advanced Node.js concepts  
-- DSA & Aptitude for placements  
+📚 **Currently Learning:**
+- Advanced **Spring Boot & Node.js**
+- **System Design** and **API Security**
+- **DSA & Aptitude** for placements
 
-💬 Ask me about:  
-- Backend Development (Node.js / Express / MongoDB)  
-- JWT Authentication  
-- RESTful APIs  
-- Deployment on Render / Vercel  
+💬 **Ask Me About:**
+- Backend Development (Node.js / Express / Spring Boot)
+- JWT Authentication & Middleware
+- MongoDB / MySQL
+- API Design & Deployment
 
-📫 Reach me at: **tejaslahade427@gmail.com**
+📫 **Reach Me At:**  
+📧 **tejaslahade427@gmail.com**
 
 ---
 
 # 💻 Tech Stack:
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Programming Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
@@ -49,20 +54,28 @@ Currently, I'm focusing on mastering the **MERN stack** and enhancing my problem
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 # 🌟 Featured Projects:
-### 🥗 [SymbiEat – Canteen Management System](https://github.com/tejas2912/Symbi-Eat)
+
+### 🍔 [SymbiEat – Canteen Management Platform](https://symbi-eat-git-master-tejas-lahades-projects.vercel.app/)
 - Built using **Next.js, Node.js, Express, MongoDB**
-- JWT authentication for secure login  
-- Admin panel to track user spending, total orders, and menu management  
-- Integrated QR and online payment system  
+- Secure **JWT Authentication** with protected routes
+- Admin panel showing user spend, order stats, and date of join
+- Live demo deployed on **Vercel**
 
 ### 💳 [Java Recharge Application](https://github.com/tejas2912/Java-Recharge-App)
-- Developed using **Spring Boot**
-- Real-time recharge updates & transaction logs  
-- User-friendly Swing UI for front-end interaction  
+- Developed using **Spring Boot + MySQL**
+- Features include secure fund transfer and transaction history
+- Real-time balance updates and recharge notifications
+
+### 🌿 [Suryamangal Website](https://suryamangal.in/)
+- Designed and developed a responsive business website
+- Improved SEO and engagement by 25%
+- Deployed on a live domain with custom UI/UX
 
 ---
 
@@ -73,10 +86,15 @@ Currently, I'm focusing on mastering the **MERN stack** and enhancing my problem
 
 ---
 
-# 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tejas-lahade)
+# 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-lahade-3b0994213/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/tejas2912)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tejaslahade/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://suryamangal.in/)
+[![SymbiEat Project](https://img.shields.io/badge/SymbiEat_Project-3DDC84?style=flat&logo=vercel&logoColor=white)](https://symbi-eat-git-master-tejas-lahades-projects.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/12HhHOxM1vJ_Ne5VL-VUBedAHf3HdX67x/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tejaslahade427@gmail.com)
 
 ---
 
-⭐ **“Code. Learn. Grow. Repeat.”** 🚀
+⭐ **“Code. Learn. Build. Grow.”** 🚀
