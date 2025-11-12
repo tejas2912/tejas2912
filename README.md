@@ -93,12 +93,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
 
 ---
 
-# 🧩 Contribution Activity
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tejas2912&limit=5&theme=react&combine_all_yearly_contributions=true" />
-</div>
 
----
 
 # 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-lahade-3b0994213/)
