@@ -1,3 +1,19 @@
+<!-- 🧠 Animated Intro Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Tejas+Lahade;Full+Stack+Developer;Java+%26+MERN+Specialist;Backend+Developer;Problem+Solver" alt="Typing SVG" />
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
+    <img src="https://img.shields.io/badge/Languages-JavaScript%2C%20Java%2C%20SQL%2C%20HTML%2C%20CSS-blue" />
+    <img src="https://img.shields.io/badge/Tools-Node.js%2C%20Express%2C%20Spring%20Boot%2C%20MongoDB%2C%20MySQL-orange" />
+    <img src="https://komarev.com/ghpvc/?username=tejas2912&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+
+  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="400" alt="Developer GIF" />
+</div>
+
+---
+
 # 💫 About Me:
 Hi there! 👋 I'm **Tejas Lahade**, a passionate **Full Stack Developer** skilled in both **Java Full Stack** and **MERN Stack** technologies.  
 Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Institute of Technology, Pune** 🎓, I’m driven by curiosity to build scalable and impactful solutions.
@@ -97,4 +113,9 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
 
 ---
 
-⭐ **“Code. Learn. Build. Grow.”** 🚀
+<div align="center">
+  
+  ### ✨ _“Code. Learn. Build. Grow.”_ 🚀
+  
+  ![Footer Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+</div>
