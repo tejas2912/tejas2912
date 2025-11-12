@@ -14,7 +14,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
 📚 **Currently Learning:**
 - Advanced **Spring Boot & Node.js**
 - **System Design** and **API Security**
-- **DSA & Aptitude** for placements
+
 
 💬 **Ask Me About:**
 - Backend Development (Node.js / Express / Spring Boot)
