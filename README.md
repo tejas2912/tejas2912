@@ -86,6 +86,19 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2912&layout=compact&theme=react)
 
 ---
+# 📊 GitHub Stats:
+<div align="center">
+
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas2912&show_icons=true&theme=react&hide_border=false" height="180px" />
+
+  <!-- Streak Card (Latest API - correct streaks) -->
+  <img src="https://streak-stats.demolab.com?user=tejas2912&theme=react&hide_border=false" height="180px" />
+
+  <!-- Language Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2912&layout=compact&theme=react&hide_border=false" height="180px" />
+
+</div>
 
 # 🐍 Contribution Graph
 <div align="center">
