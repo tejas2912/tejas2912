@@ -99,12 +99,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
 </div>
 
 ---
-# 🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
-
-
 
 # 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-lahade-3b0994213/)
