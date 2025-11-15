@@ -2,6 +2,7 @@
 Hi there! 👋 I'm **Tejas Lahade**, a passionate **Full Stack Developer** skilled in both **Java Full Stack** and **MERN Stack** technologies.  
 Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Institute of Technology, Pune** 🎓, I’m driven by curiosity to build scalable and impactful solutions.
 
+
 💼 **Experience Highlights:**
 - Developed and deployed multiple **full-stack projects** integrating real-world use cases.
 - Strong experience in **backend development** using **Node.js, Express.js, and Spring Boot**.
