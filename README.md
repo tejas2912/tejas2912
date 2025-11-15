@@ -79,13 +79,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **Symbiosis Ins
 - Deployed on a live domain with custom UI/UX
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tejas2912&show_icons=true&theme=react)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=tejas2912&theme=react)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2912&layout=compact&theme=react)
-
----
 # 📊 GitHub Stats:
 <div align="center">
 
